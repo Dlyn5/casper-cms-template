@@ -1,0 +1,7 @@
++++
+backend:
+  name: github
+  repo: dlyn5$github.com/casper-cms-template # Path to your Github repository
+  branch: master # Branch to update (master by default)
+  
++++
