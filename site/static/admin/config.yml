@@ -1,5 +1,5 @@
 backend:
-  name: dlyn5/casper-cms-template
+  name: dlyn5-blog
   repo: dlyn5/https://github.com/Dlyn5/casper-cms-template.git # Path to your Github repository
   branch: master # Branch to update (master by default)
 
